@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 My name is Swaathy
 
 <!--
 **sselvag/sselvag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About
+
 - 🔭 I am currently working on building a Full Stack E-commerce Application
-- 🌱 I am always learning new JavaScript frameworks/libraries while enhancing my Data Structures and Algorithms skills
-- 👯 I’m looking to collaborate on ...
+- 🌱 I am always learning new JavaScript frameworks and libraries while enhancing my Data Structures and Algorithms skills
+- 🤝 I’m looking to collaborate on ...
 - 💬 Ask me about ...
+- 🖥️ Please check out my Personal Portfolio here
 - 📫 You can reach me at <a href="mailto:swaathy.selva@gmail.com">swaathy.selva@gmail.com</a>
+
+## Skills
 
