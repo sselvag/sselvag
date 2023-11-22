@@ -6,11 +6,12 @@
 
 ## About
 
-I am a full stack web developer with a solid ability to design, build and maintain high-quality code throughout the entire development process. I pride myself on staying highly-motivated and give great attention to detail no matter the complexity of the project. I am a quick learner and constantly explore different JavaScript frameworks and libraries. I am seeking to join a solution-driven team where I can solve complex challenges and develop innovative software that delivers impact. </br>
+As a full-stack web developer, I excel in designing, building, and maintaining high-quality code throughout the entire development process. I pride myself on staying highly-motivated and give great attention to detail no matter the complexity of the project. I am a quick learner and often find myself exploring different JavaScript frameworks and libraries. I am eager to join a solution-driven team, where I can tackle complex challenges and contribute to the development of innovative software with a lasting impact.</br>
 
-- 🖥️ I am currently working on building a Full Stack E-commerce Application
+- 🖥️ Currently working on building a Full Stack E-commerce Application 
 - 📈 I am constantly learning new JavaScript frameworks and libraries while enhancing my Data Structures and Algorithms skills
-- 🤝 I am always looking to collaborate with other developers on interesting projects
+- 🤝 Always looking to collaborate with other developers on interesting projects
+- 🎯 Seeking a dynamic team and growth-oriented company to enhance my skills and make meaningful contributions
 - 💼 Please check out my Personal Portfolio <a href="">here</a>
 - 📬 You can reach me at <a href="mailto:swaathy.selva@gmail.com">swaathy.selva@gmail.com</a>
   
@@ -30,6 +31,8 @@ I am a full stack web developer with a solid ability to design, build and mainta
 <img width="48" height="48" src="https://img.icons8.com/sf-black-filled/48/github.png" alt="github"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/heroku.png" alt="heroku"/>
 </div>
+
+## Resume
 
 
 
