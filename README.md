@@ -15,7 +15,21 @@ I am a full stack web developer with a solid ability to design, build and mainta
 - 📬 You can reach me at <a href="mailto:swaathy.selva@gmail.com">swaathy.selva@gmail.com</a>
   
 ## Skills
-
+<div>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/graphql.png" alt="graphql"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+<img width="48" height="48" src="https://img.icons8.com/sf-black-filled/48/github.png" alt="github"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/heroku.png" alt="heroku"/>
+</div>
 
 
 
