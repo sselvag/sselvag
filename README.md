@@ -12,7 +12,7 @@ As a full-stack web developer, I excel in designing, building, and maintaining h
 - 📈 I am constantly learning new JavaScript frameworks and libraries while enhancing my Data Structures and Algorithms skills
 - 🤝 Always looking to collaborate with other developers on interesting projects
 - 🎯 Seeking a dynamic team and growth-oriented company to enhance my skills and make meaningful contributions
-- 💼 Please check out my Personal Portfolio <a href="">here</a>
+- 💼 Please check out my Personal Portfolio <a href="swaathys.com">here</a>
 - 📬 You can reach me at <a href="mailto:swaathy.selva@gmail.com">swaathy.selva@gmail.com</a>
   
 ## Skills
@@ -25,14 +25,13 @@ As a full-stack web developer, I excel in designing, building, and maintaining h
 <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/graphql.png" alt="graphql"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
 <img width="48" height="48" src="https://img.icons8.com/sf-black-filled/48/github.png" alt="github"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/heroku.png" alt="heroku"/>
 </div>
 
-## Resume
+## <a href="https://swaathys.com/SwaathySelva-2023Resume.pdf">Resume</a>
 
 
 
